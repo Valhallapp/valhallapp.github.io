@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.valhallapp.tutipic",
+    "sha256_cert_fingerprints":
+    ["3B:AA:C8:FB:40:0F:00:3B:55:1A:92:34:8A:3D:5C:D5:A6:68:FC:BB:02:54:AA:F6:28:3C:93:20:7F:24:A1:43"]
+  }
+}]
